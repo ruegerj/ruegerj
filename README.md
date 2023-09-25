@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Header](https://github.com/ruegerj/ruegerj/blob/022dc0fc318f9c4210b908feea299b4659b09003/img/banner_ruegerj.png "Header")](https://github.com/ruegerj)
+
+# Hello there!
+I'm a passionate developer which is studying computer science at [HSLU](https://www.hslu.ch "Lucerne University of Applied Sciences and Arts"), while working as a full stack software engineer. 
 
 <!--
 **ruegerj/ruegerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
