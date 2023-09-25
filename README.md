@@ -2,7 +2,7 @@
 
 # Hello there!
 
-I'm a passionate developer which is studying computer science at [HSLU](https://www.hslu.ch "Lucerne University of Applied Sciences and Arts"), while working as a full stack software engineer.
+I'm a passionate (web-)developer which is studying computer science at [HSLU](https://www.hslu.ch "Lucerne University of Applied Sciences and Arts"), while working as a full stack software engineer.
 
 ## 🔧 Technologies & Tools
 
@@ -17,17 +17,10 @@ I'm a passionate developer which is studying computer science at [HSLU](https://
 ![Docker](<https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=rgb(0%2C137%2C255)>)
 ![Notion](<https://img.shields.io/badge/Tools-Notion-informational?style=flat&logo=notion&logoColor=white&color=rgb(0%2C137%2C255)>)
 
-<!--
-**ruegerj/ruegerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+<a href="https://github.com/ruegerj/ruegerj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruegerj&hide=html,css,scss,pug,php,hack&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,137,255)&bg_color=0d1117&langs_count=3" />
+</a>
+<a href="https://github.com/ruegerj/ruegerj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruegerj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,137,255)&bg_color=0d1117" alt="Jan Rüger's GitHub Stats" />
+</a>
