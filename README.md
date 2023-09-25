@@ -11,11 +11,11 @@ I'm a passionate (web-)developer which is studying computer science at [HSLU](ht
 ![Warp](<https://img.shields.io/badge/Shell-Warp-informational?style=flat&logo=warp&logoColor=white&color=rgb(0%2C137%2C255)>)
 ![JS](<https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=rgb(0%2C137%2C255)>)
 ![TS](<https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=rgb(0%2C137%2C255)>)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=rgb(0%2C137%2C255))
 ![Java](<https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=rgb(0%2C137%2C255)>)
 ![GoLang](<https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=go&logoColor=white&color=rgb(0%2C137%2C255)>)
 ![PostgreSQL](<https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=rgb(0%2C137%2C255)>)
 ![Docker](<https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=rgb(0%2C137%2C255)>)
-![Notion](<https://img.shields.io/badge/Tools-Notion-informational?style=flat&logo=notion&logoColor=white&color=rgb(0%2C137%2C255)>)
 
 ## 📈 GitHub Stats
 <a href="https://github.com/ruegerj/ruegerj">
