@@ -2,7 +2,7 @@
 
 # Hello there!
 
-I'm a passionate (web-)developer which is studying computer science at [HSLU](https://www.hslu.ch "Lucerne University of Applied Sciences and Arts"), while working as a full stack software engineer.
+I'm a passionate (web-)developer which is studying computer science at the Lucerne University of Applied Sciences and Arts (HSLU). During business hours, I create great customer experiences as a fullstack software engineer.
 
 ## 🔧 Technologies & Tools
 
