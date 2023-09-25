@@ -15,6 +15,7 @@ I'm a passionate (web-)developer which is studying computer science at the Lucer
 ![Java](<https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=rgb(0%2C137%2C255)>)
 ![GoLang](<https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=go&logoColor=white&color=rgb(0%2C137%2C255)>)
 ![PostgreSQL](<https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=rgb(0%2C137%2C255)>)
+![NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=rgb(0%2C137%2C255))
 ![Docker](<https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=rgb(0%2C137%2C255)>)
 
 ## 📈 GitHub Stats
