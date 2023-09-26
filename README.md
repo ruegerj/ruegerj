@@ -20,8 +20,8 @@ I'm a passionate (web-)developer which is studying computer science at the Lucer
 
 ## 📈 GitHub Stats
 <a href="https://github.com/ruegerj/ruegerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruegerj&hide=html,css,scss,pug,php,hack&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,137,255)&bg_color=0d1117&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruegerj&hide=html,css,scss,pug,php,hack&langs_count=3&theme=github_dark" />
 </a>
 <a href="https://github.com/ruegerj/ruegerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruegerj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=rgb(0,137,255)&bg_color=0d1117" alt="Jan Rüger's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruegerj&show_icons=true&line_height=27&count_private=true&theme=github_dark" alt="Jan Rüger's GitHub Stats" />
 </a>
