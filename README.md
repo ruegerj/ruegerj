@@ -23,5 +23,5 @@ I'm a passionate (web-)developer which is studying computer science at the Lucer
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruegerj&hide=html,css,scss,pug,php,hack&langs_count=3&theme=github_dark" />
 </a>
 <a href="https://github.com/ruegerj/ruegerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruegerj&show_icons=true&line_height=27&count_private=true&theme=github_dark" alt="Jan Rüger's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruegerj&show_icons=true&line_height=27&count_private=true&theme=github_dark&custom_title=My%20Stats" alt="Jan Rüger's GitHub Stats" />
 </a>
